@@ -1,3 +1,5 @@
-dd,cc,bb=map(int,input().split())
-ff=(dd*cc)%bb
-print(ff)
+bg=input()
+hi=1
+for i in bg:
+  hi=hi*int(i)
+print(hi)
