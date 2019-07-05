@@ -1,2 +1,2 @@
-ht=int(input()
+ht=int(input())
 print(ht+273)
